@@ -35,11 +35,7 @@ export default {
         },
         
         songs: [
-          {
-            title : 'dastingdan',
-            artist: 'Og`abek Sobirov',
-            src : require( './assets/mus1.mp3')
-          },
+         
                     {
             title : 'Kabutar',
             artist: 'Jambul Muhammedov',
