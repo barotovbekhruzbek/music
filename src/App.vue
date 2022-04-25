@@ -54,6 +54,11 @@ export default {
             title : 'Holimga qara',
             artist: 'Jambul Muhammedov',
             src : require( './assets/holimgaqara.mp3')
+          },
+            {
+            title : 'Nola kunam',
+            artist: 'No Title',
+            src : require( './assets/nolakunam.mp3')
           }
 
         ],
