@@ -35,7 +35,11 @@ export default {
         },
         
         songs: [
-         
+                      {
+            title : 'Beqarorim',
+            artist: 'Sardor Tairov',
+            src : require( './assets/beqaror.mp3')
+          },
                     {
             title : 'Kabutar',
             artist: 'Jambul Muhammedov',
