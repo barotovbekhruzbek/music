@@ -40,6 +40,27 @@ export default {
             artist: 'Sardor Tairov',
             src : require( './assets/beqaror.mp3')
           },
+                          {
+            title : 'Na Haqqim bor',
+            artist: 'Sardor Tairov',
+            src : require( './assets/haqqim.mp3')
+          },
+                             {
+            title : 'Yig`latma',
+            artist: 'Sardor Mamadaliyev',
+            src : require( './assets/yig.mp3')
+          },
+                                     {
+            title : 'Hasrat',
+            artist: 'Sardor Tairov',
+            src : require( './assets/hasrat.mp3')
+          },
+                                             {
+            title : 'Sevmasam',
+            artist: 'Sardor Tairov',
+            src : require( './assets/sevmasam.mp3')
+          },
+                 
                     {
             title : 'Kabutar',
             artist: 'Jambul Muhammedov',
@@ -55,11 +76,7 @@ export default {
             artist: 'Jambul Muhammedov',
             src : require( './assets/holimgaqara.mp3')
           },
-            {
-            title : 'Nola kunam',
-            artist: 'No Title',
-            src : require( './assets/nolakunam.mp3')
-          }
+         
 
         ],
       player: new Audio()
