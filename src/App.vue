@@ -50,11 +50,7 @@ export default {
             artist: 'Sardor Mamadaliyev',
             src : require( './assets/yig.mp3')
           },
-                                     {
-            title : 'Hasrat',
-            artist: 'Sardor Tairov',
-            src : require( './assets/hasrat.mp3')
-          },
+                                     
                                              {
             title : 'Sevmasam',
             artist: 'Sardor Tairov',
