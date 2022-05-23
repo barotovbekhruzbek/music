@@ -50,6 +50,11 @@ export default {
             artist: 'Sardor Mamadaliyev',
             src : require( './assets/yig.mp3')
           },
+                                {
+            title : 'Esla Meni',
+            artist: 'Xamdam Sobirov',
+            src : require( './assets/xam.mp3')
+          },
                                      
                                              {
             title : 'Sevmasam',
